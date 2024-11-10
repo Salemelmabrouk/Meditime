@@ -33,7 +33,7 @@ export default function Footer() {
         </div>
       </div>
 
-      <div className="w-full flex justify-center mt-4">
+      <div className="w-full flex justify-center mt-16">
         <div className="w-full max-w-[90%] border-t border-gray-300 h-6"></div>
       </div> 
       <p className="text-center mt-4">Copyright © 2024 Pingucoder - All Right Reserved.</p>
